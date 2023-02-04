@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Slider:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="Slider.jar">
+      <element id="module-output" name="Slider" />
+    </root>
+  </artifact>
+</component>
